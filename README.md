@@ -24,7 +24,7 @@ https://medium.com/feed/@s_jathurshan
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jathurshan-santhirasekaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jathurshan-santhirasekaram" height="30" width="40" /></a>
-<a href="https://fb.com/jathurshan jathu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jathurshan jathu" height="30" width="40" /></a>
+<a href="[https://fb.com/jathurshan jathu](https://www.facebook.com/jathurshan.jathu.524/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jathurshan jathu" height="30" width="40" /></a>
 <a href="https://instagram.com/jathurshan_santhirasekaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jathurshan_santhirasekaram" height="30" width="40" /></a>
 <a href="https://medium.com/@s_jathurshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@s_jathurshan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/linx leet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="linx leet" height="30" width="40" /></a>
