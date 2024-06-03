@@ -1,4 +1,4 @@
-![MasterHead](https://ibb.co/HLS49Gq)
+![MasterHead]([https://ibb.co/HLS49Gq](https://i.ibb.co/d2nZXJJ/Black-Technology-Linked-In-Banner.png))
 <h1 align="center">Hi 👋, I'm Jathurshan</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
