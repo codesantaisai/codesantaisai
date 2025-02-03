@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesantaisai&label=Profile%20views&color=0e75b6&style=flat" alt="codesantaisai" /> </p>
 
-- 🌱 I’m currently learning **.Net**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codesantaisai](https://github.com/codesantaisai)
 
